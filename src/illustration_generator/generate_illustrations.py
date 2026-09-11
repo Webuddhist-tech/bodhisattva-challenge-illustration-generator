@@ -75,6 +75,7 @@ The outermost visible marks must be part of the scene itself, never a continuous
 
 _DAY_VISUAL_BRIEFS = {
     31: """For this day, depict one unmistakable moment at a rural village market: a seller is about to make a quick sale, but openly points out a clearly visible crack or defect in a clay pot instead of hiding it. The buyer looks directly at the disclosed defect and understands the truthful warning; the seller's gesture shows that honesty matters more than the small profit. This exact act of truthful disclosure is the central subject. Do not depict a generic market or a merely pleasant exchange.""",
+    67: """For this day, depict one unmistakable moment showing someone catching a flash of anger or craving arising in themselves and visibly halting it before it takes hold, right at that first instant: e.g. a person mid-gesture (a raised hand, a reaching arm, a sharp word half-spoken) who consciously stops themselves, takes a breath, and relaxes, watched by others nearby who notice the shift. The scene must clearly be about intercepting an inner impulse at its very first spark, not about an external danger or threat. Do NOT include any snake, cobra, or other reptile anywhere in the scene, in the trees or on the ground.""",
 }
 
 
